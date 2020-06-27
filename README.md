@@ -21,9 +21,10 @@ CMS-Employee-Database
 n/a
 
 # Installation: 
-💾 In the command line of the working directory, install the following NPM packages: NPM install, mySQL, Inquirer, Console.table, envdot
+💾 In the command line of the working directory, install the following NPM packages: NPM install, mySQL, Inquirer, Console.table, envdot.
 
 # Usage: 
+This simple application let's users add burgers they would like to eat some time in this lifetime to a craving list. Once the burger has been devoured, the user can click move burger to devoured list. If the user no longer wishes to eat that burger, the user can delete the burger from the database. 
 
 
 # Screenshot of application in use:
