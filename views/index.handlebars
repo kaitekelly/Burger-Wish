@@ -1,4 +1,4 @@
-<h1>Burger Wish List</h1>
+<h1>Burger Lust Wish List</h1>
 
 <h2>Burgers you wish to eat in this life time!</h2>
 
@@ -25,15 +25,15 @@
 <form class="create-form">
 
   <div class="form-group">
-    <label for="ca">Burger Name:</label>
+    <label for="ca" id="burger-name">Burger Name:</label>
     <input type="text" id="ca" name="burger_name">
   </div>
 
   <div class="form-group">
-    <label for="burgers">burgers?</label><br>
-    <input type="radio" name="devoured" value="1" checked> Devoured! <br>
-    <input type="radio" name="devoured" value="0"> Craving!
+    <label for="burgers" class="select-craving">Select Craving or Devoured</label><br>
+    <input type="radio" name="devoured" value="1" class="select-craving" checked> Devoured! <br>
+    <input type="radio" name="devoured" value="0" class="select-craving" > Craving!
   </div>
 
-  <button type="submit">Add Burger</button>
+  <button type="submit" id="burger-btn">Add Burger</button>
 </form>
