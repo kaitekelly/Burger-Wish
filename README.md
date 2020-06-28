@@ -29,7 +29,8 @@ This simple application let's users add burgers they would like to eat some time
 
 # Screenshot of application in use:
 
-<img width="1116" alt="Screen Shot 2020-06-28 at 12 43 31 AM" src="https://user-images.githubusercontent.com/61023907/85941559-83172400-b8d8-11ea-89d7-c0753c041e28.png">
+<img width="1087" alt="Screen Shot 2020-06-28 at 12 53 05 AM" src="https://user-images.githubusercontent.com/61023907/85941780-d2aa1f80-b8d9-11ea-8572-4e358ae8fc0a.png">
+
 
 
 # Contributions: 
