@@ -1,5 +1,6 @@
 * {
   background-color: #364958;
+  /* text-align: center; */
 }
 /* header */
 h1 {
@@ -9,6 +10,8 @@ h1 {
   margin-bottom: 20px;
   color: #f97068;
   font-size: 72pt;
+  /* font-style: italic; */
+
 }
 
 /* sub heading  */
@@ -18,6 +21,8 @@ h2 {
   margin-left: 50px;
   margin-top: 20px;
   font-size: 33pt;
+  /* font-family: 'IBM Plex Serif', serif; */
+  /* font-style: italic; */
 }
 
 ul {
@@ -61,6 +66,7 @@ li {
   font-family: "IBM Plex Serif", serif;
   border-radius: 8px;
   color: #890c06;
+  font-style: italic;
 }
 
 /* form with radial choices and input */

@@ -9,16 +9,16 @@ An application where user can enter and delete burgers they would like to eat to
 kaitekelly 👩🏻‍💻
 
 # Title:
-CMS-Employee-Database
+Burger Lust Wish List
+
+# Link to Deployed Site:
+https://nameless-fortress-05511.herokuapp.com/
 
 # Link to Repo:
 🚀 https://github.com/kaitekelly/Burger-Wish
 
 # Description:
 💻 An application where user can enter and delete burgers they would like to eat to and from a database.
-
-# Table of Contents: 
-n/a
 
 # Installation: 
 💾 In the command line of the working directory, install the following NPM packages: NPM install, mySQL, Inquirer, Console.table, envdot.
