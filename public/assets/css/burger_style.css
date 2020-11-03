@@ -1,6 +1,5 @@
 * {
   background-color: #364958;
-  /* text-align: center; */
 }
 /* header */
 h1 {
@@ -10,8 +9,6 @@ h1 {
   margin-bottom: 20px;
   color: #f97068;
   font-size: 72pt;
-  /* font-style: italic; */
-
 }
 
 /* sub heading  */
@@ -21,16 +18,14 @@ h2 {
   margin-left: 50px;
   margin-top: 20px;
   font-size: 33pt;
-  /* font-family: 'IBM Plex Serif', serif; */
-  /* font-style: italic; */
 }
 
 ul {
   margin-left: 50px;
   color: #d1d646;
-  list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
 }
 
 li {
